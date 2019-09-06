@@ -1,5 +1,8 @@
 _repo: Fuente-Ovejuna_60198
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60198-h/images/cover.jpg
 creator:
   author:
     agent_name: Vega, Lope de
@@ -17,6 +20,8 @@ creator:
     - https://es.wikipedia.org/wiki/Lope_de_Vega
     - https://en.wikipedia.org/wiki/Lope_de_Vega
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60198#Fuente-Ovejuna
 gutenberg_issued: '2019-08-30'
 gutenberg_type: Text
 identifiers:
